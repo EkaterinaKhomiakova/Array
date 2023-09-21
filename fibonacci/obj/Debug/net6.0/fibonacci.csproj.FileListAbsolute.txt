@@ -1,0 +1,15 @@
+C:\Users\ILYA\Desktop\Arrays\fibonacci\bin\Debug\net6.0\fibonacci.exe
+C:\Users\ILYA\Desktop\Arrays\fibonacci\bin\Debug\net6.0\fibonacci.deps.json
+C:\Users\ILYA\Desktop\Arrays\fibonacci\bin\Debug\net6.0\fibonacci.runtimeconfig.json
+C:\Users\ILYA\Desktop\Arrays\fibonacci\bin\Debug\net6.0\fibonacci.dll
+C:\Users\ILYA\Desktop\Arrays\fibonacci\bin\Debug\net6.0\fibonacci.pdb
+C:\Users\ILYA\Desktop\Arrays\fibonacci\obj\Debug\net6.0\fibonacci.csproj.AssemblyReference.cache
+C:\Users\ILYA\Desktop\Arrays\fibonacci\obj\Debug\net6.0\fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILYA\Desktop\Arrays\fibonacci\obj\Debug\net6.0\fibonacci.AssemblyInfoInputs.cache
+C:\Users\ILYA\Desktop\Arrays\fibonacci\obj\Debug\net6.0\fibonacci.AssemblyInfo.cs
+C:\Users\ILYA\Desktop\Arrays\fibonacci\obj\Debug\net6.0\fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\ILYA\Desktop\Arrays\fibonacci\obj\Debug\net6.0\fibonacci.dll
+C:\Users\ILYA\Desktop\Arrays\fibonacci\obj\Debug\net6.0\refint\fibonacci.dll
+C:\Users\ILYA\Desktop\Arrays\fibonacci\obj\Debug\net6.0\fibonacci.pdb
+C:\Users\ILYA\Desktop\Arrays\fibonacci\obj\Debug\net6.0\fibonacci.genruntimeconfig.cache
+C:\Users\ILYA\Desktop\Arrays\fibonacci\obj\Debug\net6.0\ref\fibonacci.dll
