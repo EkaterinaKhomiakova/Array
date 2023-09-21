@@ -1,0 +1,15 @@
+C:\Users\ILYA\Desktop\Arrays\Reverse\bin\Debug\net6.0\Reverse.exe
+C:\Users\ILYA\Desktop\Arrays\Reverse\bin\Debug\net6.0\Reverse.deps.json
+C:\Users\ILYA\Desktop\Arrays\Reverse\bin\Debug\net6.0\Reverse.runtimeconfig.json
+C:\Users\ILYA\Desktop\Arrays\Reverse\bin\Debug\net6.0\Reverse.dll
+C:\Users\ILYA\Desktop\Arrays\Reverse\bin\Debug\net6.0\Reverse.pdb
+C:\Users\ILYA\Desktop\Arrays\Reverse\obj\Debug\net6.0\Reverse.csproj.AssemblyReference.cache
+C:\Users\ILYA\Desktop\Arrays\Reverse\obj\Debug\net6.0\Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILYA\Desktop\Arrays\Reverse\obj\Debug\net6.0\Reverse.AssemblyInfoInputs.cache
+C:\Users\ILYA\Desktop\Arrays\Reverse\obj\Debug\net6.0\Reverse.AssemblyInfo.cs
+C:\Users\ILYA\Desktop\Arrays\Reverse\obj\Debug\net6.0\Reverse.csproj.CoreCompileInputs.cache
+C:\Users\ILYA\Desktop\Arrays\Reverse\obj\Debug\net6.0\Reverse.dll
+C:\Users\ILYA\Desktop\Arrays\Reverse\obj\Debug\net6.0\refint\Reverse.dll
+C:\Users\ILYA\Desktop\Arrays\Reverse\obj\Debug\net6.0\Reverse.pdb
+C:\Users\ILYA\Desktop\Arrays\Reverse\obj\Debug\net6.0\Reverse.genruntimeconfig.cache
+C:\Users\ILYA\Desktop\Arrays\Reverse\obj\Debug\net6.0\ref\Reverse.dll
