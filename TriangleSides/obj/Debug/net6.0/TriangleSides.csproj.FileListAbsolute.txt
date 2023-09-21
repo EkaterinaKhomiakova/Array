@@ -1,0 +1,15 @@
+C:\Users\ILYA\Desktop\Arrays\TriangleSides\bin\Debug\net6.0\TriangleSides.exe
+C:\Users\ILYA\Desktop\Arrays\TriangleSides\bin\Debug\net6.0\TriangleSides.deps.json
+C:\Users\ILYA\Desktop\Arrays\TriangleSides\bin\Debug\net6.0\TriangleSides.runtimeconfig.json
+C:\Users\ILYA\Desktop\Arrays\TriangleSides\bin\Debug\net6.0\TriangleSides.dll
+C:\Users\ILYA\Desktop\Arrays\TriangleSides\bin\Debug\net6.0\TriangleSides.pdb
+C:\Users\ILYA\Desktop\Arrays\TriangleSides\obj\Debug\net6.0\TriangleSides.csproj.AssemblyReference.cache
+C:\Users\ILYA\Desktop\Arrays\TriangleSides\obj\Debug\net6.0\TriangleSides.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILYA\Desktop\Arrays\TriangleSides\obj\Debug\net6.0\TriangleSides.AssemblyInfoInputs.cache
+C:\Users\ILYA\Desktop\Arrays\TriangleSides\obj\Debug\net6.0\TriangleSides.AssemblyInfo.cs
+C:\Users\ILYA\Desktop\Arrays\TriangleSides\obj\Debug\net6.0\TriangleSides.csproj.CoreCompileInputs.cache
+C:\Users\ILYA\Desktop\Arrays\TriangleSides\obj\Debug\net6.0\TriangleSides.dll
+C:\Users\ILYA\Desktop\Arrays\TriangleSides\obj\Debug\net6.0\refint\TriangleSides.dll
+C:\Users\ILYA\Desktop\Arrays\TriangleSides\obj\Debug\net6.0\TriangleSides.pdb
+C:\Users\ILYA\Desktop\Arrays\TriangleSides\obj\Debug\net6.0\TriangleSides.genruntimeconfig.cache
+C:\Users\ILYA\Desktop\Arrays\TriangleSides\obj\Debug\net6.0\ref\TriangleSides.dll
