@@ -1,0 +1,15 @@
+C:\Users\ILYA\Desktop\Arrays\ArrayCopy\bin\Debug\net6.0\ArrayCopy.exe
+C:\Users\ILYA\Desktop\Arrays\ArrayCopy\bin\Debug\net6.0\ArrayCopy.deps.json
+C:\Users\ILYA\Desktop\Arrays\ArrayCopy\bin\Debug\net6.0\ArrayCopy.runtimeconfig.json
+C:\Users\ILYA\Desktop\Arrays\ArrayCopy\bin\Debug\net6.0\ArrayCopy.dll
+C:\Users\ILYA\Desktop\Arrays\ArrayCopy\bin\Debug\net6.0\ArrayCopy.pdb
+C:\Users\ILYA\Desktop\Arrays\ArrayCopy\obj\Debug\net6.0\ArrayCopy.csproj.AssemblyReference.cache
+C:\Users\ILYA\Desktop\Arrays\ArrayCopy\obj\Debug\net6.0\ArrayCopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILYA\Desktop\Arrays\ArrayCopy\obj\Debug\net6.0\ArrayCopy.AssemblyInfoInputs.cache
+C:\Users\ILYA\Desktop\Arrays\ArrayCopy\obj\Debug\net6.0\ArrayCopy.AssemblyInfo.cs
+C:\Users\ILYA\Desktop\Arrays\ArrayCopy\obj\Debug\net6.0\ArrayCopy.csproj.CoreCompileInputs.cache
+C:\Users\ILYA\Desktop\Arrays\ArrayCopy\obj\Debug\net6.0\ArrayCopy.dll
+C:\Users\ILYA\Desktop\Arrays\ArrayCopy\obj\Debug\net6.0\refint\ArrayCopy.dll
+C:\Users\ILYA\Desktop\Arrays\ArrayCopy\obj\Debug\net6.0\ArrayCopy.pdb
+C:\Users\ILYA\Desktop\Arrays\ArrayCopy\obj\Debug\net6.0\ArrayCopy.genruntimeconfig.cache
+C:\Users\ILYA\Desktop\Arrays\ArrayCopy\obj\Debug\net6.0\ref\ArrayCopy.dll
