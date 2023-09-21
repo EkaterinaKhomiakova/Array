@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ILYA\\Desktop\\Arrays\\ArrayCopy\\ArrayCopy.csproj": {}
+    "c:\\Users\\ILYA\\Desktop\\Arrays\\ArrayCopy\\ArrayCopy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ILYA\\Desktop\\Arrays\\ArrayCopy\\ArrayCopy.csproj": {
+    "c:\\Users\\ILYA\\Desktop\\Arrays\\ArrayCopy\\ArrayCopy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ILYA\\Desktop\\Arrays\\ArrayCopy\\ArrayCopy.csproj",
+        "projectUniqueName": "c:\\Users\\ILYA\\Desktop\\Arrays\\ArrayCopy\\ArrayCopy.csproj",
         "projectName": "ArrayCopy",
-        "projectPath": "C:\\Users\\ILYA\\Desktop\\Arrays\\ArrayCopy\\ArrayCopy.csproj",
+        "projectPath": "c:\\Users\\ILYA\\Desktop\\Arrays\\ArrayCopy\\ArrayCopy.csproj",
         "packagesPath": "C:\\Users\\ILYA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ILYA\\Desktop\\Arrays\\ArrayCopy\\obj\\",
+        "outputPath": "c:\\Users\\ILYA\\Desktop\\Arrays\\ArrayCopy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ILYA\\AppData\\Roaming\\NuGet\\NuGet.Config"
